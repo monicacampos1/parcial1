@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">parcial1</string>
-</resources>
+        <string-array name="Area">
+            <item>Metro cuadrado</item>
+            <item>Yarda cuadrada</item>
+            <item>Hectarea</item>
+            <item>Pie cuadrado</item>
+            <item>Manzana</item>
+            <item>Tareas</item>
+            <item>Vara cuadrada</item>
+        </string-array>
+    </resources>
+
